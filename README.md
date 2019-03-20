@@ -1,2 +1,2 @@
-# Veerbit_Lab
+# Veerbit Laboratory
 Veerbit Internet of Thing Project
